@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 👩🏼‍🎓 Esperienze di insegnamento universitario<br>
 👩🏼‍💻 Tutor di studenti di laurea magistrale<br>
 💻 Entry level nel mondo della programmazione di Python<br>
+🚗 Esperienza nel Machine Learning (Scit_kit learn)
+🚙 Attualmente impegnata nello studio di TensorFlow, PyTorch, NLP
 🗣️ Italiano (madrelingua), Inglese (fluente)<br>
 🎷🥁🎻🎸 Sassofonista, batterista (pessima violoncellista, chitarrista autodidatta)<br>
 🥋🐼 Allieva di Kung fu<br>
